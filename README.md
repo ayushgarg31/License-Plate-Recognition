@@ -30,3 +30,4 @@ The main function in this project which user has to use is **license_plate_local
 * char_regions - a list of measure.regionprop object corresponding to each character. All such lists for each accepted license plate is in a list which is char_regions
 
 ## Result
+<img src="https://github.com/ayushgarg31/License-Plate-Recognition/blob/master/images/image2.JPG" alt="drawing" height="250px" style="float:left;"/> | <img src="https://github.com/ayushgarg31/License-Plate-Recognition/blob/master/images/image1.JPG" alt="drawing" height="250px" style="float:left;"/> | <img src="https://github.com/ayushgarg31/License-Plate-Recognition/blob/master/images/image4.JPG" alt="drawing" height="250px" style="float:left;"/> | <img src="https://github.com/ayushgarg31/License-Plate-Recognition/blob/master/images/image8.JPG" alt="drawing" height="250px" style="float:left;"/>
