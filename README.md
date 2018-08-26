@@ -28,3 +28,5 @@ The main function in this project which user has to use is **license_plate_local
 * final_coordinates - a list of measure.regionprop object corresponding to each license plate is in final_plates which has all the possible information of the accepted plate
 * final_chars - the image of the final accepted characters in a list for a particular accepted license plate. All such lists are in the a list
 * char_regions - a list of measure.regionprop object corresponding to each character. All such lists for each accepted license plate is in a list which is char_regions
+
+## Result
